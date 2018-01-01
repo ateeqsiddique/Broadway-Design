@@ -6,7 +6,7 @@ h1{
   font-size: 70px;
   font-weight: bold;
 }
-nav{
+nav,#middle{
   background-image: url("../images/the-flatiron-building.png");
 }
 #home{
@@ -15,4 +15,9 @@ font-size: 18px;
 }
 #middle,h1,h6,a{
   color: white;
+}
+.footer{
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
 }
